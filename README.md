@@ -64,9 +64,8 @@ Dalam diagram hirarki di atas, setiap komponen adalah anak dari komponen di atas
 `pubspec.yaml` adalah file konfigurasi yang digunakan oleh Flutter untuk mengelola dependensi, pengaturan proyek, dan sumber daya lainnya.
 
 - `name: card_name` Ini menentukan nama proyek. Disini, proyek dinamai "card_name".
--`description: "A new Flutter project."` Deskripsi singkat tentang proyek. Dalam hal ini, deskripsi adalah "A new Flutter project."
--	`publish_to: 'none'`
-Ini menentukan tempat di mana proyek akan dipublikasikan. Dalam hal ini, publish_to diatur ke 'none', yang berarti proyek ini tidak akan dipublikasikan ke pub.dev (tempat umum untuk publikasi paket Flutter).
+- `description: "A new Flutter project."` Deskripsi singkat tentang proyek. Dalam hal ini, deskripsi adalah "A new Flutter project."
+-	`publish_to: 'none'` Ini menentukan tempat di mana proyek akan dipublikasikan. Dalam hal ini, publish_to diatur ke 'none', yang berarti proyek ini tidak akan dipublikasikan ke pub.dev (tempat umum untuk publikasi paket Flutter).
 - `version: 1.0.0+1` Versi proyek. Formatnya adalah major.minor.patch+build, di mana: major: Versi utama. minor: Versi minor. patch: Pembaruan kecil. build: Nomor build. Di sini, versi adalah "1.0.0+1".
 -	`environment:  sdk: '>=3.3.0 <4.0.0'` Menentukan lingkungan yang diperlukan untuk menjalankan proyek. Di sini, spesifikasinya adalah SDK Flutter minimal yang dibutuhkan, yaitu minimal versi 3.3.0 dan kurang dari 4.0.0.
 -	`dependencies:`
