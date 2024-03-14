@@ -128,5 +128,5 @@ Konfigurasi spesifik untuk Flutter:
 ○	uses-material-design: Mengindikasikan bahwa proyek ini menggunakan desain material (desain default untuk aplikasi Flutter).
 
 4.	DOKUMENTASI CARD NAME
- 
-https://github.com/Evafitrianp/Membuat-Card_Name/blob/main/Dokumentasi_Card_Name.jpeg
+
+![Alt Text](https://github.com/Evafitrianp/Membuat-Card_Name/blob/main/Dokumentasi_Card_Name.jpeg)
