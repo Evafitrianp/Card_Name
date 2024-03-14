@@ -129,3 +129,4 @@ Konfigurasi spesifik untuk Flutter:
 
 4.	DOKUMENTASI CARD NAME
  
+https://github.com/Evafitrianp/Membuat-Card_Name/blob/main/Dokumentasi_Card_Name.jpeg
